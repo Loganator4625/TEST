@@ -13,8 +13,7 @@ function poop(){
       alert("What?? Screw you man!");
       return;
   }
-  else {
-    alert("Sorry, I do not understand...")
+
   }
   if(PromptTest === "No"){
     alert("Wow, I really do not like you!!!")
