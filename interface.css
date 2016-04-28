@@ -4,10 +4,10 @@ img {
 img:hover{
   border:2px solid red;
 }
-.buttonSmall {
+#buttonSmall {
   border-radius:25px;
   border:solid black 2px;
 }
-.buttonSmall:hover {
+#buttonSmall:hover {
   border-color:red;
 }
