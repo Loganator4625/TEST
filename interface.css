@@ -6,7 +6,7 @@ img:hover{
 }
 #testButton {
   border-radius:25px;
-  border:color solid black 2px;
+  border:solid black 2px;
 }
 #testButton:hover {
   border-color:red;
