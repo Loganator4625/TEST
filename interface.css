@@ -2,12 +2,12 @@ img {
   border:2px solid blue;
 }
 img:hover{
-  border:4px solid red;
+  border:2px solid red;
 }
 #testButton {
   border-radius:25px;
-  border:color solid black;
+  border:color solid black 2px;
 }
 #testButton:hover {
-  color:red;
+  border-color:red;
 }
