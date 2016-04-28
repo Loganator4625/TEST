@@ -19,5 +19,6 @@
   text-align:center;
   text-decoration: underline;
 }
-* [
-background-color:LightGreen]
+* {
+  background-color: #90EE90;
+}
