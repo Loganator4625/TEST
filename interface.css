@@ -1,9 +1,4 @@
-img {
-  border:2px solid blue;
-}
-img:hover{
-  border:2px solid red;
-}
+
 #buttonSmall {
   border-radius:25px;
   border:solid black 2px;
@@ -14,4 +9,9 @@ img:hover{
 #kspImg {
   width:355px;
   height:200px;
+  border:2px solid blue;
+  border-radius:5px;
+}
+#kspImg:hover {
+  border-color:red;
 }
