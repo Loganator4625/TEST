@@ -11,3 +11,7 @@ img:hover{
 #buttonSmall:hover {
   border-color:red;
 }
+#kspImg {
+  width:53px;
+  height:30px;
+}
