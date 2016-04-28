@@ -10,6 +10,7 @@ button:hover {
   height:200px;
   border:2px solid blue;
   border-radius:5px;
+  padding:5px;
 }
 #kspImg:hover {
   border-color:red;
