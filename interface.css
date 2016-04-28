@@ -21,3 +21,6 @@ button:hover {
 * {
   background-color: #90EE90;
 }
+* {
+  border:2px dashed black;
+}
