@@ -1,8 +1,8 @@
-function function1(){
+function function1() {
   //STUFF GOES HERE
   alert("HI!");
 }
-function poop(){
+function poop() {
   var PromptTest = prompt("Hello! I am an awesome prompt here to be all cool and stuff! Do you think I am cool? Yes or No?");
   if (PromptTest === "Yes"){
     var PromptTest2 = prompt("Lovely! I think you are a jerk but I will say no more on that! Am I a jerk?");
@@ -21,5 +21,4 @@ function poop(){
     else {
     alert("Sorry, I do not understand...")
   }
-}
 }
