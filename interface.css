@@ -2,9 +2,11 @@
 #buttonSmall {
   border-radius:25px;
   border:solid black 2px;
+  background-color:#20B2AA;
 }
 #buttonSmall:hover {
   border-color:red;
+  background-color:#20B2AA;
 }
 #kspImg {
   width:355px;
