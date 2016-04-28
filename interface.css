@@ -15,3 +15,7 @@
 #kspImg:hover {
   border-color:red;
 }
+h1 {
+  margin:auto;
+  text-decoration:underline;
+}
