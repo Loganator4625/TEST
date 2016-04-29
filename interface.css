@@ -13,7 +13,8 @@ button:hover {
   border:2px solid blue;
   border-radius:5px;
   padding:0px;
-  text-align:center;
+  margin:auto;
+  
 }
 #kspImg:hover {
   border-color:red;
