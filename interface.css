@@ -28,3 +28,13 @@ button:hover {
   border:2px;
   border-color:black;
 }
+#testButton {
+  color:orange;
+  font-weight:bold;
+  font-family:cursive;
+}
+#testButton2 {
+  color:orange;
+  font-weight:bold;
+  font-family:cursive;
+}
