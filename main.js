@@ -22,3 +22,6 @@ function poop() {
     alert("Sorry, I do not understand...")
   }
 }
+function javaTest() {
+  
+}
