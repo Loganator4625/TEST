@@ -1,3 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function function1() {
   //STUFF GOES HERE
   alert("HI!");
@@ -8,6 +35,7 @@ function poop() {
     var PromptTest2 = prompt("Lovely! I think you are a jerk but I will say no more on that! Am I a jerk?");
     if (PromptTest2 ==="No"){
       alert("Agreed! Enjoy the rest of the Webpage...");
+      return;
     }
     if (PromptTest2 === "Yes"){
       alert("What?? Screw you man!");
