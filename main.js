@@ -10,7 +10,8 @@ var money = 0;
 
 
 function javaTest() {
-  
+  money += 1;
+  document.getElementById("money").innerHTML = money;
 }
 
 
@@ -52,7 +53,4 @@ function poop() {
     else {
     alert("Sorry, I do not understand...")
   }
-}
-function javaTest() {
-  
 }
