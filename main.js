@@ -1,3 +1,4 @@
+var money = 0;
 
 
 
@@ -8,7 +9,9 @@
 
 
 
-
+function javaTest() {
+  
+}
 
 
 
