@@ -43,3 +43,9 @@ button:hover {
   font-weight:bold;
   font-family:Cursive;
 }
+#moneyBox {
+  background-color:orange;
+  font-weight:bold;
+  font-family:cursive;
+  border-radius:5px;
+}
