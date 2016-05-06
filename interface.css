@@ -49,3 +49,9 @@ button:hover {
   font-family:cursive;
   border-radius:5px;
 }
+#money {
+  background-color:orange;
+  font-weight:bold;
+  font-family:cursive;
+  border-radius:5px;
+}
