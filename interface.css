@@ -53,6 +53,11 @@ button:hover {
   font-weight:bold;
   font-family:Cursive;
 }
+#testButton5 {
+  color:orange;
+  font-weight:bold;
+  font-family:Cursive;
+}
 #moneyBox {
   background-color:orange;
   font-weight:bold;
