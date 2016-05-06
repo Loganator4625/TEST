@@ -19,6 +19,10 @@ function moneySellTest() {
     document.getElementById("money").innerHTML = money;
   }
 }
+function clearMoneyTest() {
+  money = 0
+  document.getElementById("money").innerHTML = money;
+}
 
 
 
