@@ -13,6 +13,12 @@ function javaTest() {
   money += 1;
   document.getElementById("money").innerHTML = money;
 }
+function moneySellTest() {
+  if (money >= 1) {
+    money -= 1;
+    document.getElementById("money").innerHTML = money;
+  }
+}
 
 
 
