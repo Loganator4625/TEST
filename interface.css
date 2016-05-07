@@ -107,3 +107,15 @@ button:hover {
   font-family:cursive;
   border-radius:5px;
 }
+#modifierNumber {
+  background-color:orange;
+  font-weight:bold;
+  font-family:cursive;
+  border-radius:5px;
+}
+#modifierButton {
+  color:orange;
+  font-weight:bold;
+  font-family:Cursive;
+  padding:5px 5px 5px 5px;
+}
