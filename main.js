@@ -34,10 +34,11 @@ function sellOre() {
   document.getElementById("ore").innerHTML = ore;
   document.getElementById("metal").innerHTML = metal;
 }
-function increaseModifier() {
-  oreModifier *= 1;
-  document.getElementById("modifierNumber") = oreModifier;
-}
+//function increaseModifier() {
+ // oreModifier *= 1;
+  //document.getElementById("modifierNumber") = oreModifier;
+//}
+// can't seem to get this to show the modifier number so I have commented it out!
 
 
 
