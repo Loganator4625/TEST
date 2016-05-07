@@ -95,3 +95,15 @@ button:hover {
   font-family:cursive;
   border-radius:5px;
 }
+#metal {
+  background-color:orange;
+  font-weight:bold;
+  font-family:cursive;
+  border-radius:5px;
+}
+#ore {
+  background-color:orange;
+  font-weight:bold;
+  font-family:cursive;
+  border-radius:5px;
+}
