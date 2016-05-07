@@ -35,7 +35,7 @@ function sellOre() {
   document.getElementById("metal").innerHTML = metal;
 }
 function increaseModifier() {
-  oreModifier += 1;
+  oreModifier *= 1;
   document.getElementById("modifierNumber") = oreModifier;
 }
 
