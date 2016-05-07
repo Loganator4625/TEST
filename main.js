@@ -29,8 +29,8 @@ function getOre() {
   document.getElementById("ore").innerHTML = ore;
 }
 function sellOre() {
+  metal = (ore * 1);
   ore = 0;
-  metal = (ore * oreModifier);
   document.getElementById("ore").innerHTML = ore;
   document.getElementById("metal").innerHTML = metal;
 }
