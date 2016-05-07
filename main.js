@@ -1,7 +1,7 @@
 var money = 0;
-
-
-
+var ore = 0;
+var metal = 0;
+var oreModifier = 1;
 
 
 
@@ -24,8 +24,16 @@ function clearMoneyTest() {
   document.getElementById("money").innerHTML = money;
 }
 
-
-
+function getOre() {
+  ore += 1;
+  document.getElementById("ore").innerHTML = ore;
+}
+function sellOre() {
+  ore = 0;
+  metal = (ore * oreModifier);
+  document.getElementById("ore").innerHTML = ore;
+  document.getElementById("metal").innerHTML = metal;
+}
 
 
 
