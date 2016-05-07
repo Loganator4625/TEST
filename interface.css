@@ -59,6 +59,30 @@ button:hover {
   font-family:Cursive;
   padding:5px 5px 5px 5px;
 }
+#oreButton {
+  color:orange;
+  font-weight:bold;
+  font-family:Cursive;
+  padding:5px 5px 5px 5px;
+}
+#oreSellButton {
+  color:orange;
+  font-weight:bold;
+  font-family:Cursive;
+  padding:5px 5px 5px 5px;
+}
+#metalStore {
+  background-color:orange;
+  font-weight:bold;
+  font-family:cursive;
+  border-radius:5px;
+}
+#oreStore {
+  background-color:orange;
+  font-weight:bold;
+  font-family:cursive;
+  border-radius:5px;
+}
 #moneyBox {
   background-color:orange;
   font-weight:bold;
